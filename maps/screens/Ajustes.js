@@ -5,7 +5,7 @@ import { MaterialCommunityIcons } from '@expo/vector-icons';
 const Ajustes = () => {
     return (
         <View style={styles.container}>
-            <MaterialCommunityIcons name="human-wheelchair" color='black' size={400}/>
+            <MaterialCommunityIcons name="content-save-settings-outline" color='black' size={400}/>
         </View>
     )
 }
